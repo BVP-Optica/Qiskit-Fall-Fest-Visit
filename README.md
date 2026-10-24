@@ -4,7 +4,7 @@
 
 Welcome to the official repository documenting the **Qiskit Fall Fest 2026 visit**, held on **16 October 2026** at Indraprastha Institute of Information Technology Delhi (IIIT Delhi).
 
-The event brought together approximately 50 participants for technical sessions, student poster presentations, hackathon selection, and a visit to the Centre for Quantum Technologies (CQT) Lab.
+The event brought together approximately 50 participants for three technical sessions, a visit to the Centre for Quantum Technologies (CQT) Lab, student poster presentations, and hackathon selection.
 
 ## 📌 Event Highlights
 
@@ -21,7 +21,14 @@ The event brought together approximately 50 participants for technical sessions,
 
 **Speaker:** Jasjyot Singh Gulati
 
-The session explored the Quantum Approximate Optimization Algorithm (QAOA), quantum optimization, mixer operators, and spectral metrics.
+The first session explored the Quantum Approximate Optimization Algorithm (QAOA), a hybrid quantum-classical algorithm designed to solve combinatorial optimization problems.
+
+Topics included:
+
+- Fundamentals of QAOA and variational quantum algorithms.
+- Applications of quantum computing to optimization problems.
+- Mixer operators and their role in QAOA.
+- Spectral metrics for analyzing quantum optimization.
 
 **Presentation:**
 
@@ -31,7 +38,14 @@ The session explored the Quantum Approximate Optimization Algorithm (QAOA), quan
 
 **Speaker:** Sumit Kumar, PhD Scholar, IIIT Delhi
 
-The session covered quantum communication, secure information exchange, and quantum key distribution (QKD).
+The second session explored quantum communication and its applications in secure information exchange and quantum information science.
+
+Topics included:
+
+- Fundamentals of quantum communication.
+- Quantum information and secure communication systems.
+- Quantum key distribution (QKD).
+- Emerging applications of quantum communication.
 
 **Presentation:**
 
@@ -41,11 +55,32 @@ The session covered quantum communication, secure information exchange, and quan
 
 **Speaker:** Professor Debajyoti Bera, IIIT Delhi
 
-The session introduced classical error-correcting codes and their importance in reliable communication and information processing.
+The third session focused on classical error correction and its importance in reliable communication and information processing.
+
+Topics included:
+
+- Fundamentals of error detection and correction.
+- Error-correcting codes and reliable communication.
+- Handling errors in digital information systems.
+- Connections between classical error correction and quantum information technologies.
+
+## 🔬 Centre for Quantum Technologies (CQT) Lab Visit
+
+Following the technical sessions, participants visited the **Centre for Quantum Technologies (CQT) Lab at IIIT Delhi**.
+
+The visit was facilitated by **Sumit Kumar and Dr. Sukanta Nandi**, who helped participants gain insights into the research environment and ongoing work in quantum technologies.
+
+The lab visit connected the concepts discussed during the sessions with the broader academic research landscape and gave students an opportunity to learn about quantum technology research.
 
 ## 🖼️ Student Poster Presentations
 
-Thirteen posters were presented by students from CSE, CSE-AIML, and ECE. Browse the available poster files below.
+A total of **13 student posters** were presented by participants from Computer Science and Engineering (CSE), CSE with Artificial Intelligence and Machine Learning (CSE-AIML), and Electronics and Communication Engineering (ECE).
+
+The poster presentations provided a platform for students to share their projects, communicate technical ideas, and engage with fellow participants.
+
+### Poster Collection
+
+Browse the available poster files below.
 
 1. [Hardika and Ritikarsh, Student Poster (PDF)](./Hardika%2804011503125%2CIT1%29_%20Ritikarsh%2810911502725%2C%20CSE2%29.pdf)
 2. [Inoday Chandel, Student Poster (PDF)](./InodayChandel_13126100437_CSE-AIML%282%29.pptx_20261014_211821_0000.pdf)
@@ -59,38 +94,36 @@ Thirteen posters were presented by students from CSE, CSE-AIML, and ECE. Browse 
 10. [Aumrika Joarder, Student Poster (PDF)](./aumrikajoarder_18111502825_ece.pdf)
 11. [Saksham Gupta, Student Poster (PDF)](./sakshamgupta_8311502726_cse.pptx.pdf)
 
-> **Note:** The repository listing currently shows 11 identifiable poster files, although 13 posters were presented during the event.
+> **Note:** The repository currently lists 11 identifiable poster files, although 13 posters were presented during the event.
 
 ## 🏆 Hackathon Selection
 
-Four participants were selected as hackathon finalists, encouraging further exploration of practical problem-solving and innovation in emerging technologies.
-
-## 🔬 CQT Lab Visit
-
-The event concluded with a visit to the **Centre for Quantum Technologies (CQT) Lab at IIIT Delhi**, facilitated by **Sumit Kumar and Dr. Sukanta Nandi**.
-
-Participants gained insights into the quantum research environment and connected concepts discussed during the technical sessions with academic research.
+Four participants were selected as hackathon finalists, recognizing their work and encouraging further exploration of practical problem-solving and innovation in emerging technologies.
 
 ## 👥 Organizing Team
+
+The visit was coordinated through the collaborative efforts of BVPOPTICA and IIIT Delhi.
 
 - **BVPOPTICA:** Anand and Akshat
 - **IIIT Delhi:** Sarhak and Snehil
 
 ## 🙏 Acknowledgements
 
-We extend our sincere gratitude to **Dr. Sukanta Nandi, and Professor (Dr.) Debajyoti Bera of IIIT Delhi** for graciously allowing us to visit the campus and the CQT Lab as part of Qiskit Fall Fest 2026.
+We extend our sincere gratitude to ** Dr. Sukanta Nandi, and Professor Debajyoti Bera of IIIT Delhi** for graciously allowing us to visit the campus and the CQT Lab as part of Qiskit Fall Fest 2026.
 
-We thank the speakers for sharing their knowledge through insightful technical sessions and appreciate **Sumit Kumar and Dr. Sukanta Nandi** for facilitating the laboratory visit.
+We thank **Jasjyot Singh Gulati, Sumit Kumar, and Dr. Manuj Mukherjee** for their insightful technical sessions on QAOA, quantum communication, and classical error correction.
 
-Special thanks to **Anand and Akshat from BVPOPTICA**, along with **Sarhak and Snehil from IIIT Delhi**, for coordinating the event.
+We also appreciate **Sumit Kumar and Dr. Sukanta Nandi** for facilitating the CQT Lab visit and sharing valuable insights into quantum technologies and the research environment.
 
-We also thank all student presenters, hackathon finalists, and participants for their enthusiasm and contributions.
+Special thanks to **Anand and Akshat from BVPOPTICA**, along with **Sarhak and Snehil from IIIT Delhi**, for coordinating the visit and making the event a valuable learning experience.
+
+Finally, we thank all student presenters, hackathon finalists, speakers, and participants for their enthusiasm and contributions.
 
 ## 📚 About Qiskit Fall Fest
 
-Qiskit Fall Fest is a community-driven initiative that encourages students and developers to explore quantum computing through educational activities, technical sessions, and collaborative projects.
+Qiskit Fall Fest is a community-driven initiative that encourages students and developers to explore quantum computing through educational activities, technical sessions, workshops, and collaborative projects.
 
-This visit supported that mission by connecting students with quantum computing concepts, academic research, and emerging technologies.
+This visit contributed to that mission by connecting students with quantum computing concepts, academic research, and emerging technologies.
 
 ---
 
