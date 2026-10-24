@@ -53,7 +53,7 @@ Topics included:
 
 ### 3. Classical Error Correction
 
-**Speaker:** Professor Debajyoti Bera, IIIT Delhi
+**Speaker:** Dr. Manuj Mukherjee, IIIT Delhi
 
 The third session focused on classical error correction and its importance in reliable communication and information processing.
 
