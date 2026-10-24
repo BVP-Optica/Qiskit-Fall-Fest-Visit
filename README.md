@@ -59,7 +59,7 @@ Thirteen posters were presented by students from CSE, CSE-AIML, and ECE. Browse 
 10. [Aumrika Joarder, Student Poster (PDF)](./aumrikajoarder_18111502825_ece.pdf)
 11. [Saksham Gupta, Student Poster (PDF)](./sakshamgupta_8311502726_cse.pptx.pdf)
 
-> **Note:** The repository listing currently shows 11 identifiable poster files, although 13 posters were presented during the event. Add the remaining two links when their filenames are available.
+> **Note:** The repository listing currently shows 11 identifiable poster files, although 13 posters were presented during the event.
 
 ## 🏆 Hackathon Selection
 
