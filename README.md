@@ -109,7 +109,7 @@ The visit was coordinated through the collaborative efforts of BVPOPTICA and III
 
 ## 🙏 Acknowledgements
 
-We extend our sincere gratitude to ** Dr. Sukanta Nandi, and Professor Debajyoti Bera of IIIT Delhi** for graciously allowing us to visit the campus and the CQT Lab as part of Qiskit Fall Fest 2026.
+We extend our sincere gratitude to **Dr. Sukanta Nandi, and Professor Debajyoti Bera of IIIT Delhi** for graciously allowing us to visit the campus and the CQT Lab as part of Qiskit Fall Fest 2026.
 
 We thank **Jasjyot Singh Gulati, Sumit Kumar, and Dr. Manuj Mukherjee** for their insightful technical sessions on QAOA, quantum communication, and classical error correction.
 
