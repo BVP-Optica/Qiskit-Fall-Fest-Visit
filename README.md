@@ -115,7 +115,7 @@ We thank **Jasjyot Singh Gulati, Sumit Kumar, and Dr. Manuj Mukherjee** for thei
 
 We also appreciate **Sumit Kumar and Dr. Sukanta Nandi** for facilitating the CQT Lab visit and sharing valuable insights into quantum technologies and the research environment.
 
-Special thanks to **Anand and Akshat from BVPOPTICA**, along with **Sarhak and Snehil from IIIT Delhi**, for coordinating the visit and making the event a valuable learning experience.
+Special thanks to **Anand and Akshat from BVPOPTICA**, along with **Sarthak and Snehil from IIIT Delhi**, for coordinating the visit and making the event a valuable learning experience.
 
 Finally, we thank all student presenters, hackathon finalists, speakers, and participants for their enthusiasm and contributions.
 
