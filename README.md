@@ -1,4 +1,4 @@
-# ⚛️ Qiskit Fall Fest 2026 — Visit to IIIT Delhi
+# ⚛️ Qiskit Fall Fest 2026: Visit to IIIT Delhi
 
 **Organized by BVPOPTICA in collaboration with IIIT Delhi**
 
@@ -24,6 +24,7 @@ The event brought together approximately 50 participants for technical sessions,
 The session explored the Quantum Approximate Optimization Algorithm (QAOA), quantum optimization, mixer operators, and spectral metrics.
 
 **Presentation:**
+
 - [QAOA Mixers Spectral Metrics Talk (PPTX)](./QAOA%20Mixers%20Spectral%20Metrics%20Talk%20%282%29.pptx)
 
 ### 2. Quantum Communication
@@ -33,6 +34,7 @@ The session explored the Quantum Approximate Optimization Algorithm (QAOA), quan
 The session covered quantum communication, secure information exchange, and quantum key distribution (QKD).
 
 **Presentation:**
+
 - [Quantum Communication Presentation (PDF)](./Quantum_Communication_Presentation.pdf)
 
 ### 3. Classical Error Correction
@@ -45,17 +47,17 @@ The session introduced classical error-correcting codes and their importance in 
 
 Thirteen posters were presented by students from CSE, CSE-AIML, and ECE. Browse the available poster files below.
 
-1. [Hardika and Ritikarsh — Poster (PDF)](./Hardika%2804011503125%2CIT1%29_%20Ritikarsh%2810911502725%2C%20CSE2%29.pdf)
-2. [Inoday Chandel — Poster (PDF)](./InodayChandel_13126100437_CSE-AIML%282%29.pptx_20261014_211821_0000.pdf)
-3. [Kaashvi — Poster (PDF)](./Kaashvi_01411515624_CSE%20AIML%201.pdf)
-4. [Mayank Joshi — Poster (PDF)](./MayankJoshi_12011502725_CSE2.pdf)
-5. [Mitali — Poster (PDF)](./Mitali_08911502724_CSE.pdf)
-6. [Ranbir, Aradhya, Shaivi and Rida — Poster (PDF)](./Ranbir_Aradhya_Shaivi_Rida_CSE_AIML.pdf)
-7. [Riddhi — Noise-Aware QKD Network Resilience (PDF)](./Riddhi_131261024616%20_ECE_Noise-Aware%20QKD%20Network%20Resilience.pdf)
-8. [Vriti Miglani — Poster (PDF)](./Vriti%20Miglani_35311502824_ECE.pdf)
-9. [Yuvika Khajuria — Poster (PDF)](./YuvikaKhajuria_14711502826_ECE3.pdf)
-10. [Aumrika Joarder — Poster (PDF)](./aumrikajoarder_18111502825_ece.pdf)
-11. [Saksham Gupta — Poster (PDF)](./sakshamgupta_8311502726_cse.pptx.pdf)
+1. [Hardika and Ritikarsh, Student Poster (PDF)](./Hardika%2804011503125%2CIT1%29_%20Ritikarsh%2810911502725%2C%20CSE2%29.pdf)
+2. [Inoday Chandel, Student Poster (PDF)](./InodayChandel_13126100437_CSE-AIML%282%29.pptx_20261014_211821_0000.pdf)
+3. [Kaashvi, Student Poster (PDF)](./Kaashvi_01411515624_CSE%20AIML%201.pdf)
+4. [Mayank Joshi, Student Poster (PDF)](./MayankJoshi_12011502725_CSE2.pdf)
+5. [Mitali, Student Poster (PDF)](./Mitali_08911502724_CSE.pdf)
+6. [Ranbir, Aradhya, Shaivi and Rida, Student Poster (PDF)](./Ranbir_Aradhya_Shaivi_Rida_CSE_AIML.pdf)
+7. [Riddhi, Noise-Aware QKD Network Resilience (PDF)](./Riddhi_131261024616%20_ECE_Noise-Aware%20QKD%20Network%20Resilience.pdf)
+8. [Vriti Miglani, Student Poster (PDF)](./Vriti%20Miglani_35311502824_ECE.pdf)
+9. [Yuvika Khajuria, Student Poster (PDF)](./YuvikaKhajuria_14711502826_ECE3.pdf)
+10. [Aumrika Joarder, Student Poster (PDF)](./aumrikajoarder_18111502825_ece.pdf)
+11. [Saksham Gupta, Student Poster (PDF)](./sakshamgupta_8311502726_cse.pptx.pdf)
 
 > **Note:** The repository listing currently shows 11 identifiable poster files, although 13 posters were presented during the event. Add the remaining two links when their filenames are available.
 
@@ -76,7 +78,7 @@ Participants gained insights into the quantum research environment and connected
 
 ## 🙏 Acknowledgements
 
-We extend our sincere gratitude to **Dr. Manuj Mukherjee, Dr. Sukanta Nandi, and Professor Debajyoti Bera of IIIT Delhi** for graciously allowing us to visit the campus and the CQT Lab as part of Qiskit Fall Fest 2026.
+We extend our sincere gratitude to **Dr. Sukanta Nandi, and Professor (Dr.) Debajyoti Bera of IIIT Delhi** for graciously allowing us to visit the campus and the CQT Lab as part of Qiskit Fall Fest 2026.
 
 We thank the speakers for sharing their knowledge through insightful technical sessions and appreciate **Sumit Kumar and Dr. Sukanta Nandi** for facilitating the laboratory visit.
 
